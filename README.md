@@ -40,7 +40,7 @@ Laser-cut design for electriconic components box with labels. It is designed to 
   * POT 100kΩ
 * Transistors
   * PNP
-  * NPN
+  * NPN
 * Op-Amp
 * LED's
 * Diode
@@ -61,4 +61,5 @@ Select the corresponding design for each plate. Make sure the the dimensions of 
 1. Open the box.
 2. Put your components in the box.
 3. Keep the box closed with rubber bands on the sides.
+
 And that's the way you do it.
