@@ -57,7 +57,7 @@ To make the box you need three types of plates:
 
 Select the corresponding design for each plate. Make sure the the dimensions of the entire design are 600x300mm. The red line color should be set to 'CUT' while the blue line color should be set to 'MARK'. Once the parts are cut, use woodglue for assembly.
 
-## How to use
+## How to use one
 1. Open the box.
 2. Put your components in the box.
 3. Keep the box closed with rubber bands on the sides.
